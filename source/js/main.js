@@ -1,11 +1,3 @@
-//  $(function(){
-//   $('#hide').text($('.earnings__input-number').val());
-//   $('.earnings__input-number').width($('#hide').width());
-// }).on('input', function () {
-//   $('#hide').text($('.earnings__input-number').val());
-//   $('.earnings__input-number').width($('#hide').width());
-// });
-  
 
   $('input[type=range]').rangeslider({
             // Options
